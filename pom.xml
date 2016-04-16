@@ -112,10 +112,6 @@
       <id>bintray</id>
       <url>https://api.bintray.com/maven/abesto/zipkin-test/zipkin-java/;publish=1</url>
     </repository>
-    <snapshotRepository>
-      <id>jfrog-snapshots</id>
-      <url>http://oss.jfrog.org/artifactory/oss-snapshot-local</url>
-    </snapshotRepository>
   </distributionManagement>
 
   <issueManagement>
